@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec60d39e.css",
+    "main.js": "/static/js/main.ce762f58.js",
+    "static/js/787.832b8b29.chunk.js": "/static/js/787.832b8b29.chunk.js",
+    "static/media/uniform.png": "/static/media/uniform.af026e17985224399243.png",
+    "static/media/meeting.jpg": "/static/media/meeting.dbb79d665b95b0457137.jpg",
+    "static/media/recruitment.jpg": "/static/media/recruitment.a99a518d55d5e865b78b.jpg",
+    "static/media/supporter.jpg": "/static/media/supporter.e1fd305e49d274be17f7.jpg",
+    "static/media/membership.jpg": "/static/media/membership.6449435195f27f2d5268.jpg",
+    "static/media/recruitment2.jpg": "/static/media/recruitment2.46d1f759c531941ff5df.jpg",
+    "static/media/breachers_logo.png": "/static/media/breachers_logo.7d2c3f182041a0bc1199.png",
+    "static/media/logo4.png": "/static/media/logo4.7844f3dc5629c15dd0d9.png",
+    "static/media/logo3.png": "/static/media/logo3.7a5f56ce2b97a54e87ba.png",
+    "static/media/logo1.png": "/static/media/logo1.988466b4743d556886bb.png",
+    "static/media/logo2.png": "/static/media/logo2.8a49d7f94e31c73bdf69.png",
+    "static/media/player4.png": "/static/media/player4.ca4ad45bd37ae336b559.png",
+    "static/media/player7.png": "/static/media/player7.bb76f5735ba35a13e7db.png",
+    "static/media/player6.png": "/static/media/player6.76f41780fb4e61f182c0.png",
+    "static/media/player5.png": "/static/media/player5.79f41dcbe786a4251dfc.png",
+    "static/media/player3.png": "/static/media/player3.dcaa632e1839db429a77.png",
+    "static/media/player8.png": "/static/media/player8.973b730d7afde70faca7.png",
+    "static/media/player1.png": "/static/media/player1.e675485d4457a0cf6aac.png",
+    "static/media/player2.png": "/static/media/player2.b4cd1ed62f5ef338261e.png",
+    "static/media/player11.png": "/static/media/player11.5be92544999686c11cbd.png",
+    "static/media/player9.png": "/static/media/player9.152bfa0632de2437337e.png",
+    "static/media/player10.png": "/static/media/player10.b3b20c8f7c20bae7ddaa.png",
+    "index.html": "/index.html",
+    "main.ec60d39e.css.map": "/static/css/main.ec60d39e.css.map",
+    "main.ce762f58.js.map": "/static/js/main.ce762f58.js.map",
+    "787.832b8b29.chunk.js.map": "/static/js/787.832b8b29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec60d39e.css",
+    "static/js/main.ce762f58.js"
+  ]
+}
